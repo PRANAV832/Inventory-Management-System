@@ -1,9 +1,3 @@
-Perfect 👌 since you're adding it directly from GitHub’s **“Add README”** option, here’s a **clean, professional, GitHub-ready README** with badges, structure, and proper formatting.
-
-You can copy-paste everything below directly into GitHub.
-
----
-
 # 📦 Inventory Management System
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
